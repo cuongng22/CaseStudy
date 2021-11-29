@@ -1,0 +1,28 @@
+#game-board{
+    position: relative;
+    margin-top: -50px;
+    margin-left: 270px;
+}
+.cell{
+    border: solid 1px black;
+    text-align: center;
+    font-size:15pt;
+    cursor: pointer;
+    color: darkblue;
+}
+#button1 {
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: TechnicBold;
+    color: black;
+    margin-top: 15px;
+}
+body {
+    background-image: url("Top-50-hình-ảnh-hình-nền-màu-trắng-đẹp-nhất-19.jpg");
+    width: 100px; height: 100px;
+}
+audio {
+    margin-top: 0px;
+}
